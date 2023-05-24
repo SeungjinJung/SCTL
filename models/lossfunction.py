@@ -78,7 +78,7 @@ class scaling_classwise_training_loss(nn.Module):
 
         loss = losses.clone().detach()
 
-        if self.norm == 'GN':
+        if self.norm == 'ND':
             norm = (loss-loss.mean())/loss.std() 
         elif self.norm == 'MM': 
             norm = (loss-loss.min())/(loss.max()-loss.min())
