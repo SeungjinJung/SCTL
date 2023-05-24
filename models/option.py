@@ -19,8 +19,8 @@ def opt():
                         help='Learning rate')
     parser.add_argument('--wd', type=float, default=0.02, 
                         help='weight_decay')
-    parser.add_argument('--norm', type=str, default='GN',
-                        help='GN : Gaussian Normalization(standardization), MM : Min-Max Normalization')
+    parser.add_argument('--norm', type=str, default='ND',
+                        help='ND : Normal Distribution(standardization), CM : Centerized Min-max normalization ,MM : Min-Max Normalization')
     
     # Log
     parser.add_argument('--name', type=str, default='text.log',
