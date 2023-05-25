@@ -9,8 +9,7 @@ git clone https://github.com/SeungjinJung/SCTL.git
 
 ### Datasets
 
-Please download from the below links and save to './datasets/'
-
+Please download from the below links and save to __'./datasets/'__
 
 Balanced Datasets : [Github](https://github.com/markus93/NN_calibration)
 
