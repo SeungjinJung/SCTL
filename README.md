@@ -1,6 +1,6 @@
 # Scaling of Class-wise Training Losses for Post-hoc Calibration
 
-[Paper]()
+This repogitory [Paper]
 
 ### Installation
 ```
