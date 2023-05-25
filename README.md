@@ -9,7 +9,8 @@ git clone https://github.com/SeungjinJung/SCTL.git
 
 ### Datasets
 
-- please download from the below links and save to './datasets/'
+Please download from the below links and save to './datasets/'
+
 
 Pretrained model logits on balanced datasets : [Github](https://github.com/markus93/NN_calibration)
 
