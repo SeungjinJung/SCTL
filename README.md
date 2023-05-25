@@ -17,6 +17,7 @@ Pretrained model logits on Long-tailed datasets : [Download](https://drive.googl
 ```
 python main.py --dataset cifar10_resnet110 --cal TS --loss CL --trainlog --name TS_CL_cifar10_resent110.log
 ```
+please refer to [option](models/option.py)
 ## Citation
 ```
 Not prepared
