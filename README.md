@@ -1,4 +1,4 @@
-# Scaling of Class-wise Training Losses\\for Post-hoc Calibration
+# Scaling of Class-wise Training Losses for Post-hoc Calibration
 ## Introduction
 
 ## Train/Test
