@@ -7,9 +7,10 @@ python main.py
 ```
 
 ## Option
-- data
-- cal
-- name
+- data  :
+- cal   :
+- loss  :
+- name  :
 
 ## Citation
 ```
