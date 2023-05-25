@@ -2,7 +2,7 @@
 ## Train/Test
 ### Instalation
 ```
-git clone 
+git clone https://github.com/SeungjinJung/SCTL.git
 ```
 ```
 python main.py --dataset cifar10_resnet110 --cal TS --loss CL --trainlog --name TS_CL_cifar10_resent110.log
