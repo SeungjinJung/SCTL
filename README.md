@@ -11,7 +11,7 @@ git clone https://github.com/SeungjinJung/SCTL.git
 
 - please download from the below links and save to './datasets/'
 
-Pretrained model logits on balanced datasets : [Download](https://github.com/markus93/NN_calibration) (Markus et al.)
+Pretrained model logits on balanced datasets : [Download](https://github.com/markus93/NN_calibration) (Markus., Calibration of Neural Networks)
 
 Pretrained model logits on Long-tailed datasets : [Download](https://drive.google.com/drive/folders/1KfDriNxfnuqnmsj_zwpK3j7y6Lav7XBL?usp=share_link) (Direct Link)
 
