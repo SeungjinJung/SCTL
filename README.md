@@ -12,9 +12,9 @@ git clone https://github.com/SeungjinJung/SCTL.git
 Please download from the below links and save to './datasets/'
 
 
-Pretrained model logits on balanced datasets : [Github](https://github.com/markus93/NN_calibration)
+Balanced Datasets : [Github](https://github.com/markus93/NN_calibration)
 
-Pretrained model logits on Long-tailed datasets : [Download](https://drive.google.com/drive/folders/1KfDriNxfnuqnmsj_zwpK3j7y6Lav7XBL?usp=share_link)
+Long-tailed datasets : [Download](https://drive.google.com/drive/folders/1KfDriNxfnuqnmsj_zwpK3j7y6Lav7XBL?usp=share_link)
 
 ### Usage
 ```
