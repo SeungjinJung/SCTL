@@ -1,7 +1,9 @@
 # Scaling of Class-wise Training Losses for Post-hoc Calibration
 ## Introduction
-## Option
 
+## Train & Evaluation
+
+## Option
 
 ## Citation
 ```
