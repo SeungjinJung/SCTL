@@ -6,10 +6,10 @@ python main.py --data cifar10_resnet110 --cal TS --loss CL --trainlog --name TS_
 ```
 
 ## Option
-- --data {}
-- --cal
-- loss  :
-- name  :
+\--data {}
+\--cal
+\--loss  :
+\--name  :
 
 ## Citation
 ```
