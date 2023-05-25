@@ -1,5 +1,4 @@
-# SCTL
-## Scaling of Class-wise Training Losses for Post-hoc Calibration (ICML 2023)
+# Scaling of Class-wise Training Losses for Post-hoc Calibration
 ## Introduction
 ## Option
 
