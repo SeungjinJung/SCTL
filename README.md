@@ -7,9 +7,9 @@ git clone https://github.com/SeungjinJung/SCTL.git
 ```
 - Download Datasets
 
-  Download [Pretrained model logits on balanced datasets](https://github.com/markus93/NN_calibration)
+  Pretrained model logits on balanced datasets : [Download](https://github.com/markus93/NN_calibration)
 
-  Download [Pretrained model logits on Long-tailed datasets](https://drive.google.com/drive/folders/1KfDriNxfnuqnmsj_zwpK3j7y6Lav7XBL?usp=share_link)
+  Pretrained model logits on Long-tailed datasets : [Download](https://drive.google.com/drive/folders/1KfDriNxfnuqnmsj_zwpK3j7y6Lav7XBL?usp=share_link)
 
 ### SCTL Train/Test
 - Command the following code line 
