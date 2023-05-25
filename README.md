@@ -1,6 +1,7 @@
 # Scaling of Class-wise Training Losses for Post-hoc Calibration
 ## Train/Test
-### Instalation
+### Installation
+- Clone this repogitory.
 ```
 git clone https://github.com/SeungjinJung/SCTL.git
 ```
