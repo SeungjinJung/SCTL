@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/SeungjinJung/SCTL.git
 ```
-- Download Datasets|
+- Download Datasets
 
 Download [Balanced datasets](https://github.com/markus93/NN_calibration)
 
