@@ -2,7 +2,9 @@
 ## Introduction
 
 ## Train/Test
-'''python main.py'''
+```
+python main.py
+```
 
 ## Option
 - data
