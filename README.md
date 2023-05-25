@@ -6,8 +6,8 @@ python main.py --data cifar10_resnet110 --cal TS --loss CL --trainlog --name TS_
 ```
 
 ## Option
-- data  :
-- cal   :
+- --data {}
+- --cal
 - loss  :
 - name  :
 
