@@ -1,6 +1,6 @@
 # Scaling of Class-wise Training Losses for Post-hoc Calibration
 
-This repository is the implementation code of our paper (not)
+This repository is the implementation code of our paper
 
 ### Installation
 ```
