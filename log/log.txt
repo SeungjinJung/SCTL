@@ -1,0 +1,2 @@
+Our log results are available for access at the [URL](https://drive.google.com/drive/folders/1W_9kt6otZ4NLJspjP0y7AmqCtA8spcEv?usp=share_link).
+Please place downloaded log files in log directory.
