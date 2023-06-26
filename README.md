@@ -1,4 +1,4 @@
-# Scaling of Class-wise Training Losses for Post-hoc Calibration
+# Scaling of Class-wise Training Losses for Post-hoc Calibration - ICML 2023
 
 This repository is the official implementation code of our paper
 
