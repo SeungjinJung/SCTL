@@ -22,5 +22,18 @@ python main.py --dataset cifar10_resnet110 --cal TS --loss CL --trainlog --name 
 ```
 ## Citation
 ```
-Not prepared
+
+@InProceedings{pmlr-v202-jung23a,
+  title = 	 {Scaling of Class-wise Training Losses for Post-hoc Calibration},
+  author =       {Jung, Seungjin and Seo, Seungmo and Jeong, Yonghyun and Choi, Jongwon},
+  booktitle = 	 {Proceedings of the 40th International Conference on Machine Learning},
+  pages = 	 {15421--15434},
+  year = 	 {2023},
+  editor = 	 {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+  volume = 	 {202},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {23--29 Jul},
+  publisher =    {PMLR},
+}
+
 ```
